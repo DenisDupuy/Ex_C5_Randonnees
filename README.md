@@ -26,9 +26,5 @@ En tant qu’utilisateur je dois pouvoir :
 ### Compétence couverte
 C5 - Développer des composants d’accès aux données.
 
-### Critères d’évaluation
-- Les traitements relatifs aux manipulations des données répondent aux fonctionnalités décrites par l’exercice
-- Le code source est documenté
-
 ### Ressources fournies
 Script SQL de la base de données.
